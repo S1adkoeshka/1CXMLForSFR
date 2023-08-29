@@ -1,0 +1,46 @@
+﻿<insuredData>
+	<row>
+		<birthday>1993-09-29</birthday>
+		<lastName>Иванов</lastName>
+		<firstName>Иван</firstName>
+		<middleName>Иванович</middleName>
+		<snils>12312312322</snils>
+		<position>Врач-педиатр участковый</position>
+		<paymentType>2</paymentType>
+		<paycardNum>123412341</paycardNum>
+	</row>
+	<row>
+		<birthday>1995-10-01</birthday>
+		<lastName>Петров</lastName>
+		<firstName>Петр</firstName>
+		<middleName>Петрович</middleName>
+		<snils>31232142212</snils>
+		<position>Врач-терапевт участковый</position>
+		<paymentType>1</paymentType>
+		<accountName>БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК</accountName>
+		<accountBic>222222222</accountBic>
+		<account>22222222222222222222</account>
+	</row>
+	<row>
+		<birthday>1993-09-29</birthday>
+		<lastName>Сидоров</lastName>
+		<firstName>Сидор</firstName>
+		<middleName>Сидорович</middleName>
+		<snils>33333333333</snils>
+		<position>Врач-педиатр участковый</position>
+		<paymentType>2</paymentType>
+		<paycardNum>333333333</paycardNum>
+	</row>
+	<row>
+		<birthday>321</birthday>
+		<lastName>Володин</lastName>
+		<firstName>Владимир</firstName>
+		<middleName>Владимирович</middleName>
+		<snils>44444444444</snils>
+		<position>Врач-терапевт участковый</position>
+		<paymentType>1</paymentType>
+		<accountName>БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК</accountName>
+		<accountBic>444444444</accountBic>
+		<account>44444444444444444444</account>
+	</row>
+</insuredData>
